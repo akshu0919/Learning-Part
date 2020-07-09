@@ -23,8 +23,15 @@ Space Complexity:
 - Must know ahead of time how many items will be stored and if you don't know you must guess.
 - Inserting in an array is O(n)
 - Removing and item is O(1) if its the last item but for the worst case in which you are removing an item at the very beginning of the array the cost is O(n).
+- .toString method will print the item in the array at the specified index.
+- .length method tells us the size of the array
+- Vector class will grow by 100% of its size when its full (synchronized meaning only a single thread can access that application)
+- Array List will noly grow by 50% of its size when full (unsynchronized)
+
+
  
 
 **Linked List:**
 - Grow or shrink very quickly
 - Accessing a link list base element is slow
+- Contains an element and index
