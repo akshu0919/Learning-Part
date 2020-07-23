@@ -22,8 +22,16 @@
 - How to put code snippets in a .md file. 
 - Downlaod a markdown cheat sheet
 - Convert my machine into a Linux machine
-- Download virtualbox and install a tool called vagrant and through cagrant download a linux ubuntu machine (1806 or 1906). 
+- Download virtualbox and install a tool called vagrant and through vagrant download a linux ubuntu machine (1806 or 1906). 
 - Use that and configure the machine. Learn how to go isnide the shell. 
-- Download Exercism and do java exercises first then go to ahcker rank(3-4 hours)
+- Download Exercism and do java exercises first then go to hacker rank(3-4 hours)
 - Download hacker rank and practice simple java data structure exercises (3-4 hours)
 - Learn about Java 8 features and understand the good features that count
+
+### **July 18th, 2020**
+- Work on problem that is provided
+- Research what is jdk and jre
+- What does it mean for java to be platform independent? What allows us to claim this?
+- How does vagrant work and help? How is virtualization technology is working?
+- Learn about networking and virtualization (backbone for cloud computing)
+- 
