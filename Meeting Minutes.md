@@ -32,6 +32,9 @@
 - Work on problem that is provided
 - Research what is jdk and jre
 - What does it mean for java to be platform independent? What allows us to claim this?
-- How does vagrant work and help? How is virtualization technology is working?
+- How does vagrant work and help? How is virtualization technology working?
 - Learn about networking and virtualization (backbone for cloud computing)
-- 
+
+
+### **July 25th, 2020**
+-
