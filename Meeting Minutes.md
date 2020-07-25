@@ -29,7 +29,6 @@
 - Learn about Java 8 features and understand the good features that count
 
 ### **July 18th, 2020**
-- Work on problem that is provided
 - Research what is jdk and jre
 - What does it mean for java to be platform independent? What allows us to claim this?
 - How does vagrant work and help? How is virtualization technology working?
